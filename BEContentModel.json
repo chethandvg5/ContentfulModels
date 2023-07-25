@@ -10603,7 +10603,7 @@
               "deprecationReason": null
             },
             {
-              "name": "submitLabel",
+              "name": "contactUsSubmitLabel",
               "description": null,
               "args": [
                 {
@@ -11469,13 +11469,13 @@
               "deprecationReason": null
             },
             {
-              "name": "submitLabel_ASC",
+              "name": "contactUsSubmitLabel_ASC",
               "description": null,
               "isDeprecated": false,
               "deprecationReason": null
             },
             {
-              "name": "submitLabel_DESC",
+              "name": "contactUsSubmitLabel_DESC",
               "description": null,
               "isDeprecated": false,
               "deprecationReason": null
@@ -41472,13 +41472,13 @@
               "deprecationReason": null
             },
             {
-              "name": "submitLabel_ASC",
+              "name": "contactUsSubmitLabel_ASC",
               "description": null,
               "isDeprecated": false,
               "deprecationReason": null
             },
             {
-              "name": "submitLabel_DESC",
+              "name": "contactUsSubmitLabel_DESC",
               "description": null,
               "isDeprecated": false,
               "deprecationReason": null
@@ -63059,13 +63059,13 @@
               "deprecationReason": null
             },
             {
-              "name": "submitLabel_ASC",
+              "name": "contactUsSubmitLabel_ASC",
               "description": null,
               "isDeprecated": false,
               "deprecationReason": null
             },
             {
-              "name": "submitLabel_DESC",
+              "name": "contactUsSubmitLabel_DESC",
               "description": null,
               "isDeprecated": false,
               "deprecationReason": null
@@ -64255,13 +64255,13 @@
               "deprecationReason": null
             },
             {
-              "name": "submitLabel_ASC",
+              "name": "contactUsSubmitLabel_ASC",
               "description": null,
               "isDeprecated": false,
               "deprecationReason": null
             },
             {
-              "name": "submitLabel_DESC",
+              "name": "contactUsSubmitLabel_DESC",
               "description": null,
               "isDeprecated": false,
               "deprecationReason": null
@@ -64918,13 +64918,13 @@
               "deprecationReason": null
             },
             {
-              "name": "submitLabel_ASC",
+              "name": "contactUsSubmitLabel_ASC",
               "description": null,
               "isDeprecated": false,
               "deprecationReason": null
             },
             {
-              "name": "submitLabel_DESC",
+              "name": "contactUsSubmitLabel_DESC",
               "description": null,
               "isDeprecated": false,
               "deprecationReason": null
@@ -69150,7 +69150,7 @@
               "defaultValue": null
             },
             {
-              "name": "submitLabel_exists",
+              "name": "contactUsSubmitLabel_exists",
               "description": null,
               "type": {
                 "kind": "SCALAR",
@@ -69160,7 +69160,7 @@
               "defaultValue": null
             },
             {
-              "name": "submitLabel",
+              "name": "contactUsSubmitLabel",
               "description": null,
               "type": {
                 "kind": "SCALAR",
@@ -69170,7 +69170,7 @@
               "defaultValue": null
             },
             {
-              "name": "submitLabel_not",
+              "name": "contactUsSubmitLabel_not",
               "description": null,
               "type": {
                 "kind": "SCALAR",
@@ -69180,7 +69180,7 @@
               "defaultValue": null
             },
             {
-              "name": "submitLabel_in",
+              "name": "contactUsSubmitLabel_in",
               "description": null,
               "type": {
                 "kind": "LIST",
@@ -69194,7 +69194,7 @@
               "defaultValue": null
             },
             {
-              "name": "submitLabel_not_in",
+              "name": "contactUsSubmitLabel_not_in",
               "description": null,
               "type": {
                 "kind": "LIST",
@@ -69208,7 +69208,7 @@
               "defaultValue": null
             },
             {
-              "name": "submitLabel_contains",
+              "name": "contactUsSubmitLabel_contains",
               "description": null,
               "type": {
                 "kind": "SCALAR",
@@ -69218,7 +69218,7 @@
               "defaultValue": null
             },
             {
-              "name": "submitLabel_not_contains",
+              "name": "contactUsSubmitLabel_not_contains",
               "description": null,
               "type": {
                 "kind": "SCALAR",
@@ -71346,13 +71346,13 @@
               "deprecationReason": null
             },
             {
-              "name": "submitLabel_ASC",
+              "name": "contactUsSubmitLabel_ASC",
               "description": null,
               "isDeprecated": false,
               "deprecationReason": null
             },
             {
-              "name": "submitLabel_DESC",
+              "name": "contactUsSubmitLabel_DESC",
               "description": null,
               "isDeprecated": false,
               "deprecationReason": null
